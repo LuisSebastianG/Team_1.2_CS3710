@@ -1,7 +1,16 @@
 Title: Module 3 Sprint 
-Due Date: GE ??
+Due Date: GE 
 Scrum Coach: Kyle Zimmerman
 Tech Lead: Luis Grajeda 
 Team Members: Jesse Johnstone, Josh Cervantes
 Scrum Stand Up Meetings: List class dates that meet during GE duration and the agenda items for each date. 
 Asynchronous team check in schedule:  List dates, for example, one or two other days outside of the class meeting days you will check in to share status or issues.
+
+Documentation roles:
+Getting a docker image setup and container running: Luis
+
+Creating a rails project: Jesse
+
+Setting up a model with schema and other useful commands: Josh
+
+GitHub commands and connecting an existing repository to github: Kyle
