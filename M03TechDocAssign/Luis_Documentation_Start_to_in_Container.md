@@ -44,14 +44,14 @@
    ```
 4. After getting in the directory you made Type the following commands
    ```batch
-   docker buildx build -t [dockerUserName]/[image name]
+   docker buildx -t [dockerUserName]/[image name] .
    ```
    or
    ```batch
-   docker build build -t [dockerUserName]/[image name]
+   docker build -t [dockerUserName]/[image name] .
    ```
    docker buildx build provides advance features for building Docker images
-
+   **DON'T FORGET THE PERIOD AT THE END**
 
 
 ### Running Docker Image
